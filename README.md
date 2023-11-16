@@ -5,5 +5,10 @@ I am a full-stack developer and designer. My strongest passions lie in creating 
 </p>
 
 <div align="center">
-    [![Portfolio Website](/badges/Portfolio.png)](https://www.edwardbrodski.com "Portfolio Website")
+  
+  ![Portfolio Badge](https://img.shields.io/badge/Portfolio%20website%20-%20%232C7A7B?logo=phoenixframework&logoColor=white&link=https%3A%2F%2Fwww.edwardbrodski.com)
+  ![Printables Badge](https://img.shields.io/badge/Pritables%20-%20%23FA6831?style=flat&logo=printables&logoColor=white&link=https%3A%2F%2Fwww.printables.com%2F%40Edward)
+  ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn%20-%20%230A66C2?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fedward-brodski%2F)
+  ![Resume Badge](https://img.shields.io/badge/My%20Resume%20-%20%23111111?style=flat&logo=readdotcv&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fedward-brodski%2F)
+
 </div>
